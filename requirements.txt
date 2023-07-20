@@ -1,0 +1,12 @@
+certifi==2019.11.28 #he certifi package provides a set of root certificates for verifying SSL/TLS connections. It helps ensure secure communication over HTTPS.
+Click==7.0 #is a Python package that simplifies the process of creating command-line interfaces (CLIs).
+Flask==1.1.1 # is a lightweight web framework for Python.
+Flask-Cors==3.0.8 #It allows you to define rules and policies for handling cross-origin requests in your Flask application.
+gunicorn==20.0.4 #is a Python HTTP server that can run Flask applications and other WSGI (Web Server Gateway Interface) applications. It is commonly used to deploy Flask applications in production environments.
+itsdangerous==1.1.0 # It is often used in web applications for secure cookie handling, session management, and URL generation.
+Jinja2==2.10.3 #It allows you to define and render dynamic HTML templates, providing features like template inheritance, variable substitution, looping, and conditional statements.
+joblib==0.14.0 #provides tools for efficiently distributing computational tasks across multiple cores or machines.
+MarkupSafe==1.1.1 # It helps prevent common security vulnerabilities like Cross-Site Scripting (XSS) attacks when dealing with user-generated content
+six==1.13.0  #It allows you to write code that can run on both Python 2 and Python 3 environments with minimal changes
+Werkzeug==0.16.0 #Werkzeug is used as a dependency by the Flask framework, which is
+loguru==0.5.3 #for logging
